@@ -6,7 +6,7 @@ p {color:brown;    font:arial;text-align:center;     font-size:20px; font-family
 
 body {display:flex; flex-direction: column; }
 
-.myFavouriteText {font:small;   color:  red;}
+.myFavouriteText {font:small;   color:  crimson;}
 
 .image {max-height: 50%; width: 100%}
 
